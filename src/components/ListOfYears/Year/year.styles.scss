@@ -1,0 +1,19 @@
+button {
+    font-weight: bold;
+    padding: 6px 25px;
+    font-size: 2rem;
+    border: none;
+    cursor: pointer;
+}
+
+.blue-light {
+    background-color: $azulClaro;
+}
+
+.blue-dark {
+    background-color: $azulOscuro;
+}
+
+.active {
+    background-color: #FBC978;
+}
